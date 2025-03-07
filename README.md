@@ -4,10 +4,9 @@
 mvvm-clean-architecture-kotlin-jetpack-compose project that presents a modern approach to Android app development. The project tries to combine popular Android tools and to demonstrate best development practices by utilizing up-to-date tech stacks like Compose, Kotlin, Dagger, Navigation and Retrofit. The app layers its presentation through the MVVM and Clean Architecture presentation pattern. 
 
 ### Application Screenshots
-![Image](https://github.com/user-attachments/assets/bc5a2eed-baf2-4af8-a9e9-1137369f8b09)
-![Image](https://github.com/user-attachments/assets/7bf9ed27-0812-4c72-96a2-28fe2ef37de2)
-
-![Image](https://github.com/user-attachments/assets/1f1309b2-cfa8-4342-88e1-d4df56fc4259)
+![Image](https://github.com/user-attachments/assets/a8fa6b2d-39b0-4006-93ea-02e5108c3750)
+![Image](https://github.com/user-attachments/assets/59f9016c-e88e-4193-b93f-8e292b6688a9)
+![Image](https://github.com/user-attachments/assets/fbfeaf1d-6731-42e9-9877-ab5b86bae470)
 
 ## MVVM (Model-View-ViewModel) Clean architecture 
 Clean architecture pattern has been used in the development of this application. The development language of the application is Kotlin. Clean Architecture is a design approach that separates concerns, promoting maintainability and testability. Combining MVVM with Clean Architecture helps organize an Android app into layers like 
